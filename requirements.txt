@@ -1,6 +1,2 @@
 python_speech_features==0.6
-sklearn
-scipy
-numpy
-pandas
-tqdm
+#basic package like sklearn, numpy,pandas,scipy,tqdm 
