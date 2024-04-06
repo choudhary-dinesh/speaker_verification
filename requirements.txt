@@ -1,0 +1,6 @@
+python_speech_features==0.6
+sklearn
+scipy
+numpy
+pandas
+tqdm
